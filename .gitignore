@@ -361,3 +361,14 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+#files i added to be ignored:
+
+#whole package folder
+packages/ 
+
+bin/
+obj/
+
+# Visual Studio cache/settings
+.vs/
